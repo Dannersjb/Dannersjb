@@ -8,4 +8,3 @@ I'm continually developing personal projects to explore technologies and improve
 📚 Currently
 - Studying Computer Science at the University of Hertfordshire.
 - Developing my skills in cloud infrastructure and platform engineering.
-- Building personal projects across software development and automation.
