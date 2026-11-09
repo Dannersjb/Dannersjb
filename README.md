@@ -1,7 +1,8 @@
-👋 I'm a software engineer with professional experience in DevOps, cloud infrastructure and software development. I enjoy building reliable systems, automating workflows and developing tools that make life easier for other engineers.
+👋 I'm a software engineer with professional experience across software development, DevOps and cloud infrastructure. I enjoy building applications, automating workflows and developing reliable systems that make life easier for other engineers.
 
 🚀 Projects
-I'm continually developing personal projects to explore technologies and improve my engineering skills, alongside freelance website development using modern JavaScript frameworks.
+
+I regularly work on personal projects to explore new technologies and develop my engineering skills. My interests span full-stack and mobile application development, cloud infrastructure, containerisation and automation. I also undertake freelance website development using modern JavaScript frameworks.
 
 🌐 Portfolio: [danjbennett.com/Portfolio](https://danjbennett.com/Portfolio)
 
